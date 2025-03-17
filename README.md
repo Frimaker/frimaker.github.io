@@ -25,3 +25,8 @@ Antes de criarmos uma tabela devemos pensar em como elas irão se relacionar, po
 
 Será demonstrada por esta tabela de tickets de transporte habilidades como a criação de dados amostrais, seu processo de análise e descobrimento de informações.
 
+
+### [Dashboard de Data Mining](https://github.com/Frimaker/frimaker.github.io/blob/main/Dashboard%20de%20Data%20Mining.md)
+>Data Mining | Power BI
+
+Seguem exemplos de como empregar uma investigação sobre dados emrpesariais a fim de concluir um objetivo, seja atingir metas ou encontrar a causa raíz dos problemas.
